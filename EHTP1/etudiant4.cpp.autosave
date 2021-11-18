@@ -1,0 +1,19 @@
+#include "etudiant4.h"
+#include "ui_etudiant4.h"
+
+etudiant4::etudiant4(QWidget *parent) :
+    QDialog(parent),
+    ui(new Ui::etudiant4)
+{
+    ui->setupUi(this);
+}
+
+etudiant4::~etudiant4()
+{
+    delete ui;
+}
+
+void etudiant4::on_pushButton_clicked()
+{
+    
+}
