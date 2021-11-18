@@ -4,22 +4,22 @@
  
 L’application doit gérer :
 
-  1- La liste des étudiants 
+      1- La liste des étudiants 
   
-  2- La liste des professeurs 
+      2- La liste des professeurs 
   
-  3- La liste des matières enseignées
+      3- La liste des matières enseignées
   
-  4- les notes des évaluations 
+      4- les notes des évaluations 
 
 Pour chaque catégorie (étudiant, professeur, matière, ...) l’utilisateur doit 
 avoir la possibilité de :
 
-  1- Ajouter un élément
+      1- Ajouter un élément
   
-  2- Modifier un élément
+      2- Modifier un élément
   
-  3- Supprimer un élément
+      3- Supprimer un élément
   
-  3- Afficher la liste de tous les éléments
+      4- Afficher la liste de tous les éléments
 
